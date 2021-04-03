@@ -43,3 +43,7 @@ Setelah di refresh di web browser
 Menambahkan Hyperlink 
 
 ![11](https://user-images.githubusercontent.com/56387936/113469690-d9be1980-9479-11eb-91da-31f9ca53396a.JPG)
+
+Setelah itu refresh di web browser 
+
+![12](https://user-images.githubusercontent.com/56387936/113469719-125df300-947a-11eb-8e32-593cc8f24197.JPG)

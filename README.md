@@ -12,3 +12,8 @@ Membuat paragraph pada vs code
 
 ![3](https://user-images.githubusercontent.com/56387936/113469147-80ec8200-9475-11eb-805a-11355fcafc04.JPG)
 
+Berikut adalah tampilan di web browser setelah di refresh dan mengubah nilai atributnya (align => justify, left, right, dan center)
+
+![4](https://user-images.githubusercontent.com/56387936/113469189-e93b6380-9475-11eb-86af-5bc3dc66fe60.JPG)
+
+

@@ -36,4 +36,6 @@ Kemudian menyisipkan gambar dan mengatur ukuran gambar
 
 ![9](https://user-images.githubusercontent.com/56387936/113469627-3e2ca900-9479-11eb-866a-313248f82999.JPG)
 
+Setelah di refresh di web browser 
 
+![10](https://user-images.githubusercontent.com/56387936/113469649-85b33500-9479-11eb-8589-4b1aa8af9b36.JPG)

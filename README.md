@@ -28,4 +28,9 @@ Selanjutnya memformat text
 
 ![5](https://user-images.githubusercontent.com/56387936/113469503-38829380-9478-11eb-9938-637b6fc3b358.JPG)
 
+Setelah itu lihatlah perubahannya pada web browser sebagai berikut 
+
+![6](https://user-images.githubusercontent.com/56387936/113469584-dc6c3f00-9478-11eb-81df-6892e3a2dd67.JPG)
+
+
 

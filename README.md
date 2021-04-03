@@ -20,4 +20,7 @@ Kemudian membuat atau menambahkan judul
 
 ![5](https://user-images.githubusercontent.com/56387936/113469227-3586a380-9476-11eb-81be-72a600570a27.JPG)
 
+emudian refresh di web browser lalu lihat perubahannya 
+
+![6](https://user-images.githubusercontent.com/56387936/113469477-eccfea00-9477-11eb-8b47-561c365d4413.JPG)
 

@@ -24,3 +24,8 @@ emudian refresh di web browser lalu lihat perubahannya
 
 ![6](https://user-images.githubusercontent.com/56387936/113469477-eccfea00-9477-11eb-8b47-561c365d4413.JPG)
 
+Selanjutnya memformat text
+
+![5](https://user-images.githubusercontent.com/56387936/113469503-38829380-9478-11eb-9938-637b6fc3b358.JPG)
+
+
